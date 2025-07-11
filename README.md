@@ -42,6 +42,8 @@ Includes visualizations for:
 * Guest type distributions
 * Hotel-wise cancellations
 * Year-wise arrival trends
+  <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/e1013445-14d5-4d14-82e3-2fd005dc0e47" />
+
 
 ## Outcomes
 
